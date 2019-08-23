@@ -2,9 +2,9 @@
   "dataStudio": {
     "name": "Hubspot Deals Connector",
     "company": "Scuad S.A.S",
-    "logoUrl": "https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png",
-    "addonUrl": "https://github.com/Bajena/spotify-gds-connector",
-    "supportUrl": "https://github.com/Bajena/spotify-gds-connector",
-    "description": "This connector can be used to show stats about your last played tracks"
+    "logoUrl": "https://static.hsappstatic.net/unified-navigation-ui/static-1.1047/images/icons/sprocket.svg",
+    "addonUrl": "https://github.com/mferrerisaza/hubspot-data-studio-connector",
+    "supportUrl": "https://github.com/mferrerisaza/hubspot-data-studio-connector",
+    "description": "This connector can be used to get your deals on hubspot"
   }
 }
